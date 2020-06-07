@@ -11,5 +11,5 @@ O Ecoleta é um marketplace de coleta, onde as empresas se cadastram, inserindo 
 ## Tecnologias utilizadas
 
 * HTML
-* CSS
+* CSSts
 * JavaScript
